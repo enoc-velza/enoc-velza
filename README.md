@@ -1,6 +1,6 @@
 # 👨‍💻 Engel Enoc Velásquez Zamora - @Fungicoder
 
-**Ingeniero en Computación y Sistemas Informáticos | Estudiante de Psicología | Desarrollador Full Stack | Artista Digital | Musico **
+**Ingeniero en Computación y Sistemas Informáticos | Estudiante de Psicología | Desarrollador Full Stack | Artista Digital | Musico**
 
 ---
 
