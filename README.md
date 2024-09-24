@@ -38,11 +38,10 @@ Soy un creador innato, tanto en el ámbito de la tecnología como en el arte. Me
 ---
 
 ## 🎓 Formación Académica
-- **Ingeniería en Computación y Sistemas Informáticos** - **UNAN-Managua, CUR-Estelí**
-- **Psicología** - 5to semestre, **UNAN-Managua, CUR-Estelí**
-  - Componente Integrador: Diseño de un portafolio académico que recopila todos los trabajos del semestre.
-  - Psicología del Aprendizaje, Psicopatología del Niño y Adolescente, Evaluación Psicológica Infantil, Psicología de la Publicidad y Gestión de Talento Humano.
-
+- **Ingeniería en Computación y Sistemas Informáticos** - **Universidad Popular de Nicaragua, UPONIC**
+- **Tecnico Superior en programación** - **Instituto Nacional Tecnologico De Nicaragua, INATEC**
+- **Psicología** - IV año, **UNAN-Managua, CUR-Estelí**
+  
 ---
 
 ## 🎨 Intereses Personales
